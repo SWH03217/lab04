@@ -48,6 +48,6 @@ nav a:hover { background-color: lightblue; border-color: darkblue; }
 body {
     border-left: 3px solid lightseagreen;
     height: 1800px;
-    margin-left: 200px;
+    margin-left: 150px;
     padding:0.5em;
 }
